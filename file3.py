@@ -49,6 +49,3 @@ def defiler(f):
     assert not est_vide(f), "File vide"
     return f.popleft()
 
-
-import doctest
-doctest.testmod()
