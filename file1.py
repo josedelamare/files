@@ -46,6 +46,6 @@ def defiler(f):
     >>> print(t)
     [6]
     """
-    assert not est_vide(f), "Pile vide"
+    assert not est_vide(f), "File vide"
     return f.pop(0)
 
