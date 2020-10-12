@@ -49,5 +49,3 @@ def defiler(f):
     assert not est_vide(f), "Pile vide"
     return f.pop(0)
 
-import doctest
-doctest.testmod(verbose = True)
