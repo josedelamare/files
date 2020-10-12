@@ -46,5 +46,3 @@ class File:
         """enfile"""
         self.file.append(x)
 
-import doctest
-doctest.testmod()
