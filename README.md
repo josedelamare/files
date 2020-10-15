@@ -7,4 +7,4 @@ Ce notebook permet de comparer le temps d'exécution des opérations *empiler*, 
 
 Cliquez ci-dessous pour lancer le notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/josedelamare-files-u2l9ds86/notebooks/pile_file.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/josedelamare-files-kd1ux0tp/notebooks/pile_file.ipynb)
